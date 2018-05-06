@@ -6,13 +6,4 @@ public class EquilatreralTriangle extends Triangle{
         super(shapeName, width, height);
     }
 
-    @Override
-    public double calculateArea() {
-        return super.calculateArea();
-    }
-
-    @Override
-    public double calculatePerimeter() {
-        return super.calculatePerimeter();
-    }
 }
